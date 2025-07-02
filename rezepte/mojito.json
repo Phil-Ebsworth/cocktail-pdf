@@ -1,0 +1,21 @@
+{
+  "title": "Mojito",
+  "ingredients": [
+    "4 cl weißer Rum",
+    "2 TL brauner Zucker",
+    "1 Limette (in Stücke)",
+    "6 Blätter frische Minze",
+    "Crushed Ice",
+    "Soda zum Auffüllen"
+  ],
+  "steps": [
+    "Limettenstücke und Zucker im Glas zerdrücken.",
+    "Minze kurz andrücken und dazugeben.",
+    "Rum und Crushed Ice einfüllen.",
+    "Mit Soda auffüllen, kurz umrühren.",
+    "Mit Minzzweig garnieren."
+  ],
+  "glass": "longdrink",       
+  "image_path": null,       
+  "tip": "Für extra Frische ein paar Gurkenscheiben mitmuddlen."
+}

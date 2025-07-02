@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Improved long-drink glass with more accurate proportions -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+     stroke="currentColor" stroke-width="3"
+     stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- Glass body: slightly wider and shorter -->
+  <rect x="22" y="10" width="20" height="40" rx="2" ry="2"/>
+
+  <!-- Bottom band inside the glass -->
+  <path d="M22 42
+           h20
+           a2 2 0 0 1 -2 2
+           h-16
+           a2 2 0 0 1 -2 -2
+           z"/>
+</svg>
