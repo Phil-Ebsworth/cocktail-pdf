@@ -1,5 +1,3 @@
-"""CLI‑Skript: baue auf einen Rutsch alle PDFs aus dem Rezepte‑Ordner."""
-
 from pathlib import Path
 
 from cocktail_pdf_generator import generate_pdfs_from_folder
