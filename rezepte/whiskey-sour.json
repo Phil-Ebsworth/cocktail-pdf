@@ -1,0 +1,15 @@
+{
+  "title": "Whiskey Sour",
+  "ingredients": [
+    "6 cl Bourbon Whiskey",
+    "3 cl Zitronensaft",
+    "2 cl Zuckersirup",
+    "Eiswürfel"
+  ],
+  "steps": [
+    "Alle Zutaten mit Eis in den Shaker geben und kräftig shaken.",
+    "In ein Tumblerglas mit frischem Eis abseihen.",
+    "Mit einer Orangenzeste garnieren."
+  ],
+  "glass": "tumbler"
+}

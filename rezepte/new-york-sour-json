@@ -1,0 +1,17 @@
+{
+  "title": "New York Sour",
+  "ingredients": [
+    "6 cl Bourbon Whiskey",
+    "2,5 cl Zitronensaft (frisch gepresst)",
+    "2 cl Zuckersirup",
+    "1,5 cl trockener Rotwein",
+    "Eiswürfel"
+  ],
+  "steps": [
+    "Bourbon, Zitronensaft und Zuckersirup mit Eis in einen Shaker geben und kräftig schütteln.",
+    "In ein mit Eis gefülltes Tumblerglas abseihen.",
+    "Den Rotwein langsam über die Rückseite eines Löffels eingießen, damit er oben floatet.",
+    "Mit einer Zitronenzeste garnieren."
+  ],
+  "glass": "tumbler"
+}

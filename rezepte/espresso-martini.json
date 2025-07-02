@@ -1,0 +1,18 @@
+{
+  "title": "Espresso Martini",
+  "ingredients": [
+    "5 cl Vodka",
+    "5 cl Kahlúa",
+    "Doppelter Espresso",
+    "1 cl Zuckersirup"
+  ],
+  "steps": [
+    "Espresso brühen und kurz abkühlen lassen.",
+    "Alle Zutaten in den Shaker geben.",
+    "Eiswürfel hinzufügen.",
+    "Kräftig shaken, bis die Eiswürfel sich aufgelöst haben.",
+    "In ein gekühltes Tumblerglas abseihen.",
+    "Mit drei Kaffeebohnen garnieren."
+  ],
+  "glass": "tumbler"
+}

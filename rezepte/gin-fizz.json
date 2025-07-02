@@ -1,0 +1,17 @@
+{
+  "title": "Gin Fizz",
+  "ingredients": [
+    "5 cl Gin",
+    "3 cl Zitronensaft (frisch gepresst)",
+    "2 cl Zuckersirup",
+    "Sodawasser zum Auffüllen",
+    "Eiswürfel"
+  ],
+  "steps": [
+    "Gin, Zitronensaft und Zuckersirup in einen Shaker mit Eiswürfeln geben.",
+    "Kräftig schütteln.",
+    "In ein Longdrinkglas auf frische Eiswürfel abseihen.",
+    "Mit Sodawasser auffüllen und leicht umrühren."
+  ],
+  "glass": "longdrink"
+}

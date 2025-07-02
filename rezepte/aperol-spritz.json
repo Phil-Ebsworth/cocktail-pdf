@@ -1,0 +1,18 @@
+{
+  "title": "Aperol Spritz",
+  "ingredients": [
+    "6 cl Prosecco",
+    "4 cl Aperol",
+    "2 cl Sodawasser",
+    "Orangenscheibe",
+    "Eiswürfel"
+  ],
+  "steps": [
+    "Weinglas bis zur Hälfte mit Eis füllen.",
+    "Aperol eingießen.",
+    "Prosecco hinzufügen.",
+    "Mit Sodawasser toppen und behutsam umrühren.",
+    "Mit einer Orangenscheibe garnieren."
+  ],
+  "glass": "wine"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Limoncello Spritz",
+  "ingredients": [
+    "6 cl Limoncello",
+    "100 ml Prosecco",
+    "Ein Spritzer Soda",
+    "Eiswürfel",
+    "Zitronenscheibe"
+  ],
+  "steps": [
+    "Ein Glas mit Eiswürfeln füllen.",
+    "Limoncello über das Eis gießen.",
+    "Prosecco hinzufügen und leicht umrühren.",
+    "Einen Spritzer Soda dazugeben.",
+    "Mit einer Zitronenscheibe garnieren."
+  ],
+  "glass": "wine"
+}

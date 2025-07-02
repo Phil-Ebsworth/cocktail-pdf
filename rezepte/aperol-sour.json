@@ -1,0 +1,18 @@
+{
+  "title": "Aperol Sour",
+  "ingredients": [
+    "5 cl Aperol",
+    "2 cl frischer Zitronensaft",
+    "2 cl frischer Orangensaft",
+    "2 cl Zuckersirup",
+    "Eiswürfel",
+    "Zitronenzeste"
+  ],
+  "steps": [
+    "Alle Zutaten in einen Shaker geben.",
+    "Mit Eis kräftig shaken.",
+    "In ein vorgekühltes Glas abseihen.",
+    "Mit Zitronenzeste garnieren."
+  ],
+  "glass": "tumbler"
+}
