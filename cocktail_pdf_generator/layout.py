@@ -53,10 +53,6 @@ def draw_recipe_area(
     if not drawn:
         draw_placeholder(c, box_x, box_y, box_size, box_size)
 
-    # Glasname
-    if recipe.get("glass"):
-        c.setFont("Helvetica", 8)
-        c.drawCentredString(box_x + box_size / 2, box_y - 3 * mm, recipe["glass"].capitalize())
 
     # Zutaten
     top_ing = ry(page_h - margin - 12 * mm)
